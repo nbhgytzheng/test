@@ -1,2 +1,2 @@
 FROM ubuntu:20.04
-RUN apt update && apt upgrade
+CMD echo 'Hello docker world!'
